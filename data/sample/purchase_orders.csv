@@ -1,0 +1,6 @@
+po_number,supplier,item,quantity,due_date,status
+PO-1001,Acme Steel,Steel beam 3m,200,2026-10-20,delivered
+PO-1002,Northern Bolts,M12 bolts,5000,2026-11-01,open
+PO-1003,Acme Steel,Upright frame,80,2026-11-05,open
+PO-1004,Great Lakes Wire,Wire decking,150,2026-11-25,open
+PO-1005,Northern Bolts,Anchor bolts,1200,2026-12-02,open

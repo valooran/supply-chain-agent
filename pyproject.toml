@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supply-chain-agent"
+version = "0.1.0"
+description = "AI agent for purchase orders and inventory"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic",
+    "python-dotenv",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
